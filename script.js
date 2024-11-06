@@ -10,7 +10,7 @@ const game = {
     { location: 'Saffron City', completed: false, difficulty: 6 },
     { location: 'Cinnabar Island', completed: false, difficulty: 7 },
     { location: 'Viridian City', completed: false, difficulty: 8 }
-  ],
+  ],f
   items: [
     { name: 'potion', quantity: 4 },
     { name: 'pokeball', quantity: 8 },
